@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "689181202009",
+    "project_id": "firebase-bathroam"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:689181202009:android:84f0f0ec05da726b",
+        "android_client_info": {
+          "package_name": "com.example.flame.bathroam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "689181202009-km9ibtthhg5q7m1mh5qjf127psfhkke8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flame.bathroam",
+            "certificate_hash": "88ccb9b2ecdcc097efffdeebc3640e4155115f4e"
+          }
+        },
+        {
+          "client_id": "689181202009-dkj4fm2r38pmrj7vd55agk8mbabst6t1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCn67-43zLRHYSEfcV0YCgN84rhbXufVeY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
