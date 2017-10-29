@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1012676352992",
+    "project_id": "bathroam-1f2c0"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1012676352992:android:05a1209735c312e9",
+        "android_client_info": {
+          "package_name": "com.example.austin.menu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1012676352992-ovradrd77keul44i572s0qlcqmud6mhf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.austin.menu",
+            "certificate_hash": "5d2a5f603a8a6f963a7f29043e96428f69e7c233"
+          }
+        },
+        {
+          "client_id": "1012676352992-klsutu32t3r2j8idt3a6m24qkoo1s118.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBt309Ygiw_c3HrpZO04_5UJyDP1z2ib0w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
